@@ -5,7 +5,7 @@ Departamento de Ciencias de la Computación <br>
 CC3085 Inteligencia Artificial <br>
 
 
-# IA_Laboratorio1
+# IA_Laboratorio8
 
 - ¿Podría PCA ayudarle a mejorar sus clusters? ¿Por qué?
 
